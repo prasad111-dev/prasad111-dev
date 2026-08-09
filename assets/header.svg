@@ -1,55 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="100%">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117" />
-      <stop offset="55%" stop-color="#161b22" />
-      <stop offset="100%" stop-color="#1f2937" />
+    <linearGradient id="winbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
     </linearGradient>
     <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#F75C7E" />
       <stop offset="50%" stop-color="#7F5AF0" />
       <stop offset="100%" stop-color="#00D4FF" />
     </linearGradient>
-    <clipPath id="typeClip">
-      <rect id="typeRect" x="36" y="0" width="0" height="90" />
-    </clipPath>
     <style>
-      @keyframes type {
-        0% { width: 0; }
-        100% { width: 610px; }
-      }
-      #typeRect { animation: type 4s steps(32, end) infinite alternate; }
       @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
-      .cursor { animation: blink 1s steps(1) infinite; }
-      @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-6px); }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes glow {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.4; }
       }
-      .dot { animation: float 2.6s ease-in-out infinite; }
-      @keyframes grow {
-        0% { stroke-dashoffset: 420; }
-        100% { stroke-dashoffset: 0; }
-      }
-      .underline { stroke-dasharray: 420; animation: grow 2.4s ease-out infinite alternate; }
+      .glow { animation: glow 2s ease-in-out infinite; }
+      @keyframes loadbar { from { width: 0; } to { width: 944px; } }
+      .loadbar { animation: loadbar 4s ease-in-out infinite alternate; }
     </style>
   </defs>
 
-  <rect width="1000" height="250" fill="url(#bg)" rx="16" />
+  <rect width="1000" height="260" rx="14" fill="url(#winbg)" stroke="#30363d" stroke-width="2" />
 
-  <circle cx="130" cy="125" r="78" fill="#21262d" />
-  <circle cx="130" cy="125" r="78" fill="none" stroke="url(#accent)" stroke-width="3" stroke-dasharray="4 6" class="dot" />
-  <text x="130" y="150" font-family="'Fira Code', monospace, sans-serif" font-size="64" font-weight="bold" fill="#F75C7E" text-anchor="middle">P</text>
+  <line x1="0" y1="42" x2="1000" y2="42" stroke="#30363d" stroke-width="2" />
+  <circle cx="26" cy="21" r="6" fill="#FF5F57" />
+  <circle cx="46" cy="21" r="6" fill="#FEBC2E" />
+  <circle cx="66" cy="21" r="6" fill="#28C840" />
+  <text x="92" y="27" font-family="'Fira Code', monospace, sans-serif" font-size="14" fill="#8b949e">prasad@rhel9: ~</text>
 
-  <text x="245" y="105" font-family="'Segoe UI', 'Fira Code', monospace, sans-serif" font-size="42" font-weight="bold" fill="#e6edf3">PRASAD S. GHAVGHAVE</text>
-  <line x1="245" y1="118" x2="245" y2="118" class="underline" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" />
+  <text x="28" y="80" font-family="'Fira Code', monospace, sans-serif" font-size="18">
+    <tspan fill="#00D4FF">prasad@rhel9</tspan>
+    <tspan fill="#8b949e">:</tspan>
+    <tspan fill="#FFD700">~</tspan>
+    <tspan fill="#F75C7E">$</tspan>
+    <tspan fill="#e6edf3"> whoami</tspan>
+  </text>
+  <text x="28" y="108" font-family="'Fira Code', monospace, sans-serif" font-size="16" fill="#8b949e">Junior Linux System Administrator · AI Researcher</text>
 
-  <text x="245" y="148" font-family="'Segoe UI', sans-serif" font-size="20" fill="#8b949e">Junior Linux System Administrator · AI Researcher</text>
+  <text x="28" y="142" font-family="'Fira Code', monospace, sans-serif" font-size="18">
+    <tspan fill="#00D4FF">prasad@rhel9</tspan>
+    <tspan fill="#8b949e">:</tspan>
+    <tspan fill="#FFD700">~</tspan>
+    <tspan fill="#F75C7E">$</tspan>
+    <tspan fill="#e6edf3"> cat skills.txt</tspan>
+  </text>
+  <text x="28" y="170" font-family="'Fira Code', monospace, sans-serif" font-size="16" fill="#00D4FF">RHEL 9 · Ansible · Docker · SELinux · OpenShift</text>
 
-  <text clip-path="url(#typeClip)" x="36" y="196" font-family="'Fira Code', monospace" font-size="19" fill="#00D4FF">&gt; rhel 9 · ansible · docker · ieee researcher</text>
-  <text class="cursor" x="36" y="196" font-family="'Fira Code', monospace" font-size="19" fill="#F75C7E">|</text>
+  <text x="28" y="204" font-family="'Fira Code', monospace, sans-serif" font-size="18">
+    <tspan fill="#00D4FF">prasad@rhel9</tspan>
+    <tspan fill="#8b949e">:</tspan>
+    <tspan fill="#FFD700">~</tspan>
+    <tspan fill="#F75C7E">$</tspan>
+    <tspan fill="#e6edf3"> python3 research.py</tspan>
+  </text>
+  <text x="28" y="232" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan class="glow" fill="#28C840">✓ 6 IEEE publications</tspan>
+    <tspan fill="#8b949e">  ·  RH124  ·  RH294  ·  DO180</tspan>
+  </text>
 
-  <circle cx="860" cy="55" r="5" fill="#7F5AF0" class="dot" />
-  <circle cx="905" cy="205" r="4" fill="#00D4FF" class="dot" />
-  <circle cx="940" cy="120" r="3" fill="#F75C7E" class="dot" />
-  <circle cx="820" cy="160" r="3" fill="#FFD700" class="dot" />
+  <text class="cursor" x="452" y="204" font-family="'Fira Code', monospace, sans-serif" font-size="18" fill="#F75C7E">▍</text>
+
+  <rect class="loadbar" x="28" y="248" width="0" height="5" rx="2.5" fill="url(#accent)" />
 </svg>
