@@ -37,11 +37,6 @@
 
 </div>
 
-<!-- Orbit animation -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/orbit.svg" alt="orbit animation" />
-</div>
-
 <!-- Wave divider -->
 <img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/wave.svg" width="100%" alt="wave divider" />
 
