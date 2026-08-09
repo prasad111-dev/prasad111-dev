@@ -37,6 +37,14 @@
 
 </div>
 
+<!-- Orbit animation -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/orbit.svg" alt="orbit animation" />
+</div>
+
+<!-- Wave divider -->
+<img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/wave.svg" width="100%" alt="wave divider" />
+
 ---
 
 ## 🧑‍💻 About Me
@@ -93,6 +101,17 @@ Motivated and detail-oriented **Junior Linux System Administrator** with hands-o
 <a href="https://github.com/prasad111-dev">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasad111-dev&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph" />
 </a>
+
+</div>
+
+---
+
+## 🏔️ 3D Contribution Graph
+
+<div align="center">
+
+<!-- 3D contribution graph (animated) -->
+<img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
@@ -158,6 +177,9 @@ Motivated and detail-oriented **Junior Linux System Administrator** with hands-o
 ---
 
 <div align="center">
+
+<!-- Wave divider -->
+<img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/wave.svg" width="100%" alt="wave divider" />
 
 **Thanks for visiting! ⭐ Star your favorite repos, and let's connect on** [LinkedIn](https://www.linkedin.com/in/prasad-ghavghave-b521a4357/)
 

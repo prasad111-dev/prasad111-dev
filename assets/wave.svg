@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 90" preserveAspectRatio="none" width="100%">
+  <defs>
+    <style>
+      .w1 { animation: bobb 5s ease-in-out infinite; }
+      .w2 { animation: bobb 7s ease-in-out infinite reverse; }
+      @keyframes bobb {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-14px); }
+      }
+    </style>
+  </defs>
+  <path class="w1" d="M0,60 C220,100 460,20 720,55 C980,90 1220,35 1440,70 L1440,90 L0,90 Z" fill="#F75C7E" opacity="0.55" />
+  <path class="w2" d="M0,78 C260,35 520,105 760,72 C1000,40 1250,95 1440,62 L1440,90 L0,90 Z" fill="#7F5AF0" opacity="0.45" />
+</svg>
