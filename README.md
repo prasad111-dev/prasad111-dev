@@ -23,7 +23,7 @@
 
 > **Junior Linux System Administrator · AI Researcher · RHEL 9**
 >
-> Open to **Linux Admin / DevOps** roles · B.Tech AI & ML (DMIHER) · 6 IEEE publications · RH124 · RH294 · DO180
+> Open to **Linux Admin / DevOps** roles · B.Tech AI & ML (DMIHER) · 6 IEEE publications
 
 ---
 
@@ -63,6 +63,16 @@
 
 ---
 
+## 🎓 `$ certs`
+
+| Certification | Issuer |
+| :--- | :--- |
+| **RH124** — Red Hat System Administration I | Red Hat Academy |
+| **RH294** — Red Hat Ansible Automation | Red Hat Academy |
+| **DO180** — Red Hat OpenShift Administration | Red Hat Academy |
+
+---
+
 ## 📈 `$ stats`
 
 <div align="center">
@@ -85,11 +95,11 @@
 
 ## 🚀 `$ builds`
 
-> **LinuxLab — Cloud Linux Lab** — browser-based Linux admin & DevOps lab with AI hints & auto-evaluation · React · Docker · MongoDB
+> **LinuxLab** — [github.com/prasad111-dev/linuxlab-59](https://github.com/prasad111-dev/linuxlab-59) · Production-ready cloud Linux lab — real isolated containers in the browser with AI hints & auto-evaluation · React · Docker · MongoDB
 >
-> **Face-Recognition Attendance App** — automated attendance from CCTV/webcam frames · Flask · FaceNet · OpenCV · SQLite
+> **Face-Recognition Attendance** — [github.com/prasad111-dev/Web_App_Attendance](https://github.com/prasad111-dev/Web_App_Attendance) · Automated attendance from CCTV/webcam frames with a dashboard · Flask · FaceNet · OpenCV
 >
-> **Python Efficiency Analyzer** — profiler that finds your slowest functions & optimization hints · Python · Streamlit · cProfile
+> **Python Efficiency Analyzer** — [github.com/prasad111-dev/efficiency_analyzer](https://github.com/prasad111-dev/efficiency_analyzer) · Profiler that finds your slowest functions & optimization hints · Python · Streamlit · cProfile
 
 ---
 
@@ -103,12 +113,6 @@
 - [Hospital Hygiene Surveillance with YOLOv8 on Edge AI](https://ieeexplore.ieee.org/document/11378502)
 - [CCTV-Based Attendance System — SkyHighes Technology](https://ieeexplore.ieee.org/document/11379113)
 - [IoT in Healthcare: Remote Patient Monitoring](https://ieeexplore.ieee.org/document/10969057)
-
----
-
-## 🎓 `$ certs`
-
-> **RH124** — Red Hat System Administration I · **RH294** — Red Hat Ansible Automation · **DO180** — Red Hat OpenShift Admin
 
 ---
 
