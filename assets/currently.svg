@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 190" width="100%">
+  <defs>
+    <linearGradient id="ugbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+    <style>
+      @keyframes glow { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+      .glow { animation: glow 2.2s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="920" height="190" rx="12" fill="url(#ugbg)" stroke="#30363d" stroke-width="2" />
+  <line x1="0" y1="42" x2="920" y2="42" stroke="#30363d" stroke-width="2" />
+  <circle cx="26" cy="21" r="6" fill="#FF5F57" />
+  <circle cx="46" cy="21" r="6" fill="#FEBC2E" />
+  <circle cx="66" cy="21" r="6" fill="#28C840" />
+  <text x="92" y="27" font-family="'Fira Code', monospace, sans-serif" font-size="14" fill="#8b949e">prasad@rhel9: ~/status</text>
+
+  <text x="28" y="76" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">currently building :</tspan>
+    <tspan fill="#e6edf3"> LinuxLab cloud labs &amp; DevOps tooling</tspan>
+  </text>
+  <text x="28" y="106" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">currently learning :</tspan>
+    <tspan fill="#e6edf3"> OpenShift, Kubernetes &amp; advanced Ansible</tspan>
+  </text>
+  <text x="28" y="136" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">researching        :</tspan>
+    <tspan fill="#e6edf3"> Deep learning for healthcare &amp; edge AI</tspan>
+  </text>
+  <text x="28" y="166" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan class="glow" fill="#F75C7E">▮ open to junior Linux Admin / DevOps roles</tspan>
+  </text>
+</svg>

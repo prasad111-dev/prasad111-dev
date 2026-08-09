@@ -7,6 +7,11 @@
 
 <br /><br />
 
+<!-- Boot animation (GitHub-hosted) -->
+<img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/boot.svg" width="100%" alt="booting prasadOS" />
+
+<br />
+
 <!-- Social -->
 <a href="https://www.linkedin.com/in/prasad-ghavghave-b521a4357/"><img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/badges/linkedin.svg" alt="LinkedIn" /></a>
 <a href="mailto:prasadghavghave0@gmail.com"><img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/badges/email.svg" alt="Email" /></a>
@@ -25,6 +30,17 @@
 
 <!-- Terminal whoami (GitHub-hosted) -->
 <img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/whoami.svg" width="100%" alt="whoami — Prasad S. Ghavghave, Junior Linux System Administrator & AI Researcher" />
+
+</div>
+
+---
+
+## 🕒 `$ status`
+
+<div align="center">
+
+<!-- Currently / status (GitHub-hosted) -->
+<img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/currently.svg" width="100%" alt="currently building, learning, researching" />
 
 </div>
 
@@ -80,6 +96,11 @@
 
 <div align="center">
 
+<!-- GitHub stats terminal (GitHub-hosted) -->
+<img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/stats.svg" width="100%" alt="GitHub stats — 18 repos, 394 contributions/yr, 6 IEEE papers, 3 certs" />
+
+<br />
+
 <!-- 3D contribution graph (animated, GitHub-hosted) -->
 <img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
 
@@ -116,6 +137,17 @@
 - [Hospital Hygiene Surveillance with YOLOv8 on Edge AI](https://ieeexplore.ieee.org/document/11378502)
 - [CCTV-Based Attendance System — SkyHighes Technology](https://ieeexplore.ieee.org/document/11379113)
 - [IoT in Healthcare: Remote Patient Monitoring](https://ieeexplore.ieee.org/document/10969057)
+
+---
+
+## 🔮 `$ fortune`
+
+<div align="center">
+
+<!-- Quote / fun fact (animated typing, GitHub-hosted) -->
+<img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/fortune.svg" width="100%" alt="fortune — Automate the boring stuff, build the reliable stuff" />
+
+</div>
 
 ---
 

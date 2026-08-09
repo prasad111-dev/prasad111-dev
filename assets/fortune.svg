@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 200" width="100%">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+    <clipPath id="typeClip">
+      <rect id="typeRect" x="28" y="0" width="0" height="120" />
+    </clipPath>
+    <style>
+      @keyframes type {
+        0% { width: 0; }
+        100% { width: 600px; }
+      }
+      #typeRect { animation: type 3s steps(38, end) infinite alternate; }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+    </style>
+  </defs>
+
+  <rect width="920" height="200" rx="12" fill="url(#fbg)" stroke="#30363d" stroke-width="2" />
+  <line x1="0" y1="42" x2="920" y2="42" stroke="#30363d" stroke-width="2" />
+  <circle cx="26" cy="21" r="6" fill="#FF5F57" />
+  <circle cx="46" cy="21" r="6" fill="#FEBC2E" />
+  <circle cx="66" cy="21" r="6" fill="#28C840" />
+  <text x="92" y="27" font-family="'Fira Code', monospace, sans-serif" font-size="14" fill="#8b949e">prasad@rhel9: $ fortune</text>
+
+  <text x="28" y="82" font-family="'Fira Code', monospace, sans-serif" font-size="15">
+    <tspan fill="#00D4FF">$ </tspan><tspan fill="#e6edf3">fortune</tspan>
+  </text>
+
+  <text clip-path="url(#typeClip)" x="28" y="122" font-family="'Fira Code', monospace, sans-serif" font-size="17" fill="#FFD700">"Automate the boring stuff,</text>
+  <text clip-path="url(#typeClip)" x="28" y="148" font-family="'Fira Code', monospace, sans-serif" font-size="17" fill="#FFD700"> build the reliable stuff."</text>
+  <text clip-path="url(#typeClip)" x="28" y="174" font-family="'Fira Code', monospace, sans-serif" font-size="15" fill="#8b949e">— prasad · linux admin &amp; ai researcher</text>
+  <text class="cursor" x="560" y="174" font-family="'Fira Code', monospace, sans-serif" font-size="15" fill="#F75C7E">▍</text>
+</svg>
