@@ -103,6 +103,8 @@ Motivated and detail-oriented **Junior Linux System Administrator** with hands-o
 
 **IEEE Xplore published research papers in AI, healthcare & edge computing.** [Author Profile](https://ieeexplore.ieee.org/author/394379608471085) · [Google Scholar](https://scholar.google.com/citations?user=5gWoDTUAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/scientific-contributions/Prasad-S-Ghavghave-2311471774)
 
+> 🔬 6 IEEE papers · CNN, YOLOv8, Edge AI, ML for healthcare · IEEE Xplore author ID: 394379608471085
+
 <div align="center">
 
 | Year | Publication | Focus |
