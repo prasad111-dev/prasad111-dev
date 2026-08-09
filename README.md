@@ -52,6 +52,19 @@ Motivated and detail-oriented **Junior Linux System Administrator** with hands-o
 
 ---
 
+## ⚡ Skill Proficiency
+
+| Skill | Proficiency |
+| :--- | :---: |
+| **RHEL 9 Administration** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
+| **Python & Deep Learning** | 🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜ 88% |
+| **Shell Scripting** | 🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜ 85% |
+| **Storage & Security (LVM, RAID, SELinux)** | 🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜ 82% |
+| **Ansible Automation** | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
+| **Docker & Containers** | 🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜ 75% |
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -71,15 +84,15 @@ Motivated and detail-oriented **Junior Linux System Administrator** with hands-o
 
 <div align="center">
 
-<!-- Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prasad111-dev&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad111-dev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" />
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad111-dev&theme=radical&hide_border=true&background=0D1117" alt="streak stats" />
 
 <br />
 
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad111-dev&theme=radical&hide_border=true&background=0D1117" alt="streak stats" />
+<!-- Activity graph -->
+<a href="https://github.com/prasad111-dev">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasad111-dev&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph" />
+</a>
 
 </div>
 
