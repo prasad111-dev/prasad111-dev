@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 250" width="100%">
+  <defs>
+    <linearGradient id="wbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+  </defs>
+
+  <rect width="920" height="250" rx="12" fill="url(#wbg)" stroke="#30363d" stroke-width="2" />
+  <line x1="0" y1="42" x2="920" y2="42" stroke="#30363d" stroke-width="2" />
+  <circle cx="26" cy="21" r="6" fill="#FF5F57" />
+  <circle cx="46" cy="21" r="6" fill="#FEBC2E" />
+  <circle cx="66" cy="21" r="6" fill="#28C840" />
+  <text x="92" y="27" font-family="'Fira Code', monospace, sans-serif" font-size="14" fill="#8b949e">prasad@rhel9: ~/whoami</text>
+
+  <text x="28" y="74" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">Name        :</tspan>
+    <tspan fill="#e6edf3"> Prasad S. Ghavghave</tspan>
+  </text>
+  <text x="28" y="100" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">Role        :</tspan>
+    <tspan fill="#e6edf3"> Junior Linux System Administrator</tspan>
+  </text>
+  <text x="28" y="126" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">Focus       :</tspan>
+    <tspan fill="#e6edf3"> AI Research · RHEL 9 · DevOps</tspan>
+  </text>
+  <text x="28" y="152" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">Education   :</tspan>
+    <tspan fill="#e6edf3"> B.Tech AI &amp; ML — DMIHER University</tspan>
+  </text>
+  <text x="28" y="178" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">Research    :</tspan>
+    <tspan fill="#e6edf3"> 6 IEEE publications</tspan>
+  </text>
+  <text x="28" y="204" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">Certs       :</tspan>
+    <tspan fill="#e6edf3"> RH124 · RH294 · DO180</tspan>
+  </text>
+  <text x="28" y="230" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">Open to     :</tspan>
+    <tspan fill="#F75C7E"> Linux Admin / DevOps roles</tspan>
+  </text>
+</svg>

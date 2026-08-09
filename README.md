@@ -21,9 +21,12 @@
 
 ## 💻 `$ whoami`
 
-> **Junior Linux System Administrator · AI Researcher · RHEL 9**
->
-> Open to **Linux Admin / DevOps** roles · B.Tech AI & ML (DMIHER) · 6 IEEE publications
+<div align="center">
+
+<!-- Terminal whoami (GitHub-hosted) -->
+<img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/whoami.svg" width="100%" alt="whoami — Prasad S. Ghavghave, Junior Linux System Administrator & AI Researcher" />
+
+</div>
 
 ---
 
@@ -121,6 +124,11 @@
 <!-- Wave divider (GitHub-hosted) -->
 <img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/wave.svg" width="100%" alt="wave divider" />
 
-**Thanks for visiting!** Let's connect on [LinkedIn](https://www.linkedin.com/in/prasad-ghavghave-b521a4357/) · 📧 prasadghavghave0@gmail.com · 📱 +91 9322860752
+<!-- Terminal contact (GitHub-hosted) -->
+<a href="https://www.linkedin.com/in/prasad-ghavghave-b521a4357/">
+  <img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/contact.svg" width="100%" alt="contact — prasadghavghave0@gmail.com · +91 9322860752" />
+</a>
+
+**Thanks for visiting!** Let's connect — I'm open to Linux Admin / DevOps roles & research collaborations.
 
 </div>

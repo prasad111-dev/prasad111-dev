@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 210" width="100%">
+  <defs>
+    <linearGradient id="cbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+  </defs>
+
+  <rect width="920" height="210" rx="12" fill="url(#cbg)" stroke="#30363d" stroke-width="2" />
+  <line x1="0" y1="42" x2="920" y2="42" stroke="#30363d" stroke-width="2" />
+  <circle cx="26" cy="21" r="6" fill="#FF5F57" />
+  <circle cx="46" cy="21" r="6" fill="#FEBC2E" />
+  <circle cx="66" cy="21" r="6" fill="#28C840" />
+  <text x="92" y="27" font-family="'Fira Code', monospace, sans-serif" font-size="14" fill="#8b949e">prasad@rhel9: ~/contact</text>
+
+  <text x="28" y="74" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">email     :</tspan>
+    <tspan fill="#e6edf3"> prasadghavghave0@gmail.com</tspan>
+  </text>
+  <text x="28" y="100" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">phone     :</tspan>
+    <tspan fill="#e6edf3"> +91 9322860752</tspan>
+  </text>
+  <text x="28" y="126" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">linkedin  :</tspan>
+    <tspan fill="#e6edf3"> linkedin.com/in/prasad-ghavghave</tspan>
+  </text>
+  <text x="28" y="152" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">github    :</tspan>
+    <tspan fill="#e6edf3"> github.com/prasad111-dev</tspan>
+  </text>
+  <text x="28" y="178" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">portfolio :</tspan>
+    <tspan fill="#e6edf3"> prasad111-dev.github.io/Portfolio</tspan>
+  </text>
+  <text x="28" y="204" font-family="'Fira Code', monospace, sans-serif" font-size="16">
+    <tspan fill="#00D4FF">ieee      :</tspan>
+    <tspan fill="#e6edf3"> author/394379608471085</tspan>
+  </text>
+</svg>
