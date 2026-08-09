@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Prasad%20S.%20Ghavghave&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Junior%20Linux%20System%20Administrator%20%7C%20AI%20Researcher%20%7C%20RHEL%209%20Special&descAlignY=58&descSize=20" width="100%" alt="banner" />
-
-<!-- Typing animation -->
+<!-- Animated header (GitHub-hosted, always loads) -->
 <a href="https://github.com/prasad111-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=F75C7E&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub+profile!;Linux+Admin+%26+DevOps+%7C+RHEL+9+Special;Ansible+Automation+%26+Containerization;IEEE+Published+AI+Researcher;6+Research+Publications+in+AI+%26+Healthcare;Let's+connect+and+build+reliable+infrastructure!&descAlignY=58" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/prasad111-dev/prasad111-dev/main/assets/header.svg" width="100%" alt="Prasad S. Ghavghave — Junior Linux System Administrator & AI Researcher" />
 </a>
 
 <!-- Visitor counter -->
@@ -46,12 +43,13 @@
 
 Motivated and detail-oriented **Junior Linux System Administrator** with hands-on experience in **Red Hat Enterprise Linux (RHEL 9)**, **Ansible automation**, and **containerization (Docker)**.
 
-- 🔭 Currently open to **Linux Admin, DevOps & RHEL** roles
-- 🌱 Skilled in configuring, managing, and troubleshooting Linux systems
-- 📚 **B.Tech in AI & ML** — DMIHER University
-- 📝 **IEEE author of 6 research publications** in AI, healthcare & edge computing
-- 🎓 Certified by **Red Hat Academy** (RH124, RH294, DO180)
-- ⚡ Passionate about building reliable, automated infrastructure
+| | |
+| :--- | :--- |
+| 🔭 | **Open to** Linux Admin · DevOps · RHEL roles |
+| 🚀 | **Building** reliable, automated infrastructure |
+| 🎓 | **B.Tech AI & ML** — DMIHER University |
+| 📝 | **6 IEEE publications** in AI, healthcare & edge computing |
+| 🏅 | **Red Hat Academy** — RH124 · RH294 · DO180 |
 
 ---
 
@@ -179,7 +177,5 @@ Motivated and detail-oriented **Junior Linux System Administrator** with hands-o
 **Thanks for visiting! ⭐ Star your favorite repos, and let's connect on** [LinkedIn](https://www.linkedin.com/in/prasad-ghavghave-b521a4357/)
 
 📧 prasadghavghave0@gmail.com · 📱 +91 9322860752
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
